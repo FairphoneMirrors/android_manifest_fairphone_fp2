@@ -2,13 +2,6 @@
 <manifest>
   <remote fetch=".." name="origin" review="code.fairphone.com/gerrit"/>  
   <default remote="origin" revision="fp2-sibon" />
-  <project groups="pdk" name="fp2-dev/device/asus/deb" path="device/asus/deb" />
-  <project groups="pdk" name="fp2-dev/device/asus/flo" path="device/asus/flo" />
-  <project groups="pdk" name="fp2-dev/device/asus/flo-kernel" path="device/asus/flo-kernel" />
-  <project groups="pdk" name="fp2-dev/device/asus/fugu" path="device/asus/fugu" />
-  <project groups="pdk" name="fp2-dev/device/asus/fugu-kernel" path="device/asus/fugu-kernel" />
-  <project groups="pdk" name="fp2-dev/device/asus/grouper" path="device/asus/grouper" />
-  <project groups="pdk" name="fp2-dev/device/asus/tilapia" path="device/asus/tilapia" />
   <project groups="pdk-cw-fs" name="fp2-dev/device/common" path="device/common" />
   <project groups="pdk" name="fp2-dev/device/generic/arm64" path="device/generic/arm64" />
   <project groups="pdk" name="fp2-dev/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" />
@@ -25,24 +18,17 @@
   <project groups="pdk" name="fp2-dev/device/generic/x86_64" path="device/generic/x86_64" />
   <project groups="pdk" name="fp2-dev/device/google/accessory/arduino" path="device/google/accessory/arduino" />
   <project groups="pdk" name="fp2-dev/device/google/accessory/demokit" path="device/google/accessory/demokit" />
-  <project groups="pdk" name="fp2-dev/device/google/atv" path="device/google/atv" />
-  <project groups="pdk" name="fp2-dev/device/htc/flounder" path="device/htc/flounder" />
-  <project groups="pdk" name="fp2-dev/device/htc/flounder-kernel" path="device/htc/flounder-kernel" />
-  <project groups="pdk" name="fp2-dev/device/lge/mako" path="device/lge/mako" />
-  <project groups="pdk" name="fp2-dev/device/lge/mako-kernel" path="device/lge/mako-kernel" />
   <project name="fp2-dev/device/qcom/common" path="device/qcom/common" >
     <copyfile dest="build.sh" src="build.sh"/>
     <copyfile dest="vendor/qcom/build/tasks/generate_extra_images.mk" src="generate_extra_images.mk"/>
   </project>
   <project name="fp2-dev/device/qcom/sepolicy" path="device/qcom/sepolicy" />
   <project groups="pdk" name="fp2-dev/device/sample" path="device/sample" />
-  <project groups="pdk" name="fp2-dev/device/samsung/manta" path="device/samsung/manta" />
   <project name="fp2-dev/kernel/lk" path="bootable/bootloader/lk" />
   <project name="fp2-dev/kernel/msm" path="kernel" />
   <project groups="pdk" name="fp2-dev/platform/abi/cpp" path="abi/cpp" />
   <project groups="pdk" name="fp2-dev/platform/art" path="art" />
   <project groups="pdk" name="fp2-dev/platform/bionic" path="bionic" />
-  <project groups="pdk-cw-fs" name="fp2-dev/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" />
   <project groups="pdk" name="fp2-dev/platform/bootable/recovery" path="bootable/recovery" />
   <project groups="pdk" name="fp2-dev/platform/build" path="build" >
     <copyfile dest="Makefile" src="core/root.mk"/>
@@ -345,8 +331,6 @@
   <project groups="pdk" name="fp2-dev/platform/hardware/invensense" path="hardware/invensense" />
   <project groups="pdk" name="fp2-dev/platform/hardware/libhardware" path="hardware/libhardware" />
   <project groups="pdk" name="fp2-dev/platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" />
-  <project groups="pdk" name="fp2-dev/platform/hardware/nvidia/audio" path="hardware/nvidia/audio" />
-  <project groups="pdk" name="fp2-dev/platform/hardware/nvidia/tegra124" path="hardware/nvidia/tegra124" />
   <project groups="qcom,default" name="fp2-dev/platform/hardware/qcom/audio" path="hardware/qcom/audio" />
   <project groups="qcom,default" name="fp2-dev/platform/hardware/qcom/bt" path="hardware/qcom/bt" />
   <project groups="qcom,default" name="fp2-dev/platform/hardware/qcom/camera" path="hardware/qcom/camera" />
@@ -357,10 +341,6 @@
   <project groups="qcom,default" name="fp2-dev/platform/hardware/qcom/sensors" path="hardware/qcom/sensors" />
   <project groups="qcom,default" name="fp2-dev/platform/hardware/qcom/wlan" path="hardware/qcom/wlan" />
   <project groups="pdk" name="fp2-dev/platform/hardware/ril" path="hardware/ril" />
-  <project groups="pdk" name="fp2-dev/platform/hardware/samsung_slsi/exynos5" path="hardware/samsung_slsi/exynos5" />
-  <project groups="pdk" name="fp2-dev/platform/hardware/ti/omap3" path="hardware/ti/omap3" />
-  <project groups="pdk" name="fp2-dev/platform/hardware/ti/omap4-aah" path="hardware/ti/omap4-aah" />
-  <project groups="pdk" name="fp2-dev/platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" />
   <project groups="pdk" name="fp2-dev/platform/libcore" path="libcore" />
   <project groups="pdk" name="fp2-dev/platform/libnativehelper" path="libnativehelper" />
   <project name="fp2-dev/platform/ndk" path="ndk" />
