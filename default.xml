@@ -523,4 +523,5 @@
   <project path="packages/apps/FairphoneLauncher3" name="fp2-dev/platform/packages/apps/FairphoneLauncher3"/>
   <project name="fp2-dev/platform/packages/apps/ClockWidget" path="packages/apps/ClockWidget" />
   <project name="fp2-dev/platform/packages/apps/MyContactsWidget" path="packages/apps/MyContactsWidget" />
+  <project name="fp2-dev/platform/packages/apps/Amaze" path="packages/apps/Amaze" />
 </manifest>
