@@ -526,4 +526,6 @@
   <project name="fp2-dev/system/extras/appops_su" path="system/extras/appops_su"/>
   <project name="fp2-dev/platform/external/busybox" path="external/busybox" />
   <project name="fp2-dev/platform/packages/apps/SetupWizard" path="packages/apps/SetupWizard" />
+  <project name="fp2-dev/platform/packages/apps/ProximitySensor" path="packages/apps/ProximitySensor" />
+  <project name="fp2-dev/platform/packages/apps/Diagnostics" path="packages/apps/Diagnostics" />
 </manifest>
