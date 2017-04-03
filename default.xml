@@ -399,7 +399,7 @@
   <project name="fp2-dev/platform/packages/apps/Protips" path="packages/apps/Protips" />
   <project name="fp2-dev/platform/packages/apps/Provision" path="packages/apps/Provision" />
   <project name="fp2-dev/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" />
-  <project name="fp2-dev/platform/packages/apps/Settings" path="packages/apps/Settings" />
+  <project name="fp2-dev/platform/packages/apps/Settings" path="packages/apps/Settings" revision="fp2-sibon-master" />
   <project name="fp2-dev/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" />
   <project name="fp2-dev/platform/packages/apps/SnapdragonCamera" path="packages/apps/SnapdragonCamera" />
   <project name="fp2-dev/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" />
@@ -515,7 +515,7 @@
   <project name="fp2-dev/platform/vendor/qcom/copper" path="device/qcom/msm8974" />
   <project name="fp2-dev/platform/vendor/qcom/msm8226" path="device/qcom/msm8226" />
   <project name="fp2-dev/platform/vendor/qcom/msm8610" path="device/qcom/msm8610" />
-  <project name="fp2-dev/platform/packages/apps/FairphoneUpdater" path="packages/apps/FairphoneUpdater" />
+  <project name="fp2-dev/platform/packages/apps/FairphoneUpdater" path="packages/apps/FairphoneUpdater" revision="fp2-sibon-master" />
   <project name="fp2-dev/device/fairphone_devices/common" path="device/fairphone_devices/common" />
   <project name="fp2-dev/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2" />
   <project name="fp2-dev/device/fairphone_devices/sepolicy" path="device/fairphone_devices/sepolicy"/>
@@ -526,6 +526,6 @@
   <project name="fp2-dev/system/extras/appops_su" path="system/extras/appops_su"/>
   <project name="fp2-dev/platform/external/busybox" path="external/busybox" />
   <project name="fp2-dev/platform/packages/apps/SetupWizard" path="packages/apps/SetupWizard" />
-  <project name="fp2-dev/platform/packages/apps/ProximitySensor" path="packages/apps/ProximitySensor" />
-  <project name="fp2-dev/platform/packages/apps/Diagnostics" path="packages/apps/Diagnostics" />
+  <project name="fp2-dev/platform/packages/apps/ProximitySensor" path="packages/apps/ProximitySensor" revision="fp2-sibon-master" />
+  <project name="fp2-dev/platform/packages/apps/Diagnostics" path="packages/apps/Diagnostics" revision="fp2-sibon-master" />
 </manifest>
