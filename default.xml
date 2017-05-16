@@ -430,6 +430,7 @@
   <project name="fp2/platform/vendor/qcom/copper" path="device/qcom/msm8974" />
   <project name="fp2/device/fairphone_devices/common" path="device/fairphone_devices/common" />
   <project name="fp2/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2" revision="fp2-m-sibon" />
+  <project name="fp2/device/fairphone_devices/sepolicy" path="device/fairphone_devices/sepolicy"/>
   <project name="fp2/vendor/fairphone/frameworks/base/packages/ProgrammableButton" path="vendor/fairphone/frameworks/base/packages/ProgrammableButton" revision="master"/>
   <project name="fp2/vendor/fairphone/checkup" path="vendor/fairphone/checkup" revision="refs/tags/release-2.1.7"/>
   <project name="fp2/vendor/fairphone/packages/apps/Launcher" path="vendor/fairphone/packages/apps/Launcher" revision="refs/tags/release-1.0.3"/>
