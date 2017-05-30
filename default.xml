@@ -20,7 +20,7 @@
   <project groups="pdk" name="fp2/platform/abi/cpp" path="abi/cpp" />
   <project groups="pdk" name="fp2/platform/art" path="art" />
   <project groups="pdk" name="fp2/platform/bionic" path="bionic" />
-  <project groups="pdk" name="fp2/platform/bootable/recovery" path="bootable/recovery" />
+  <project groups="pdk" name="fp2/platform/bootable/recovery" path="bootable/recovery" revision="fp2-m-sibon-twrp" />
   <project groups="pdk" name="fp2/platform/build-marshmallow" path="build" >
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
