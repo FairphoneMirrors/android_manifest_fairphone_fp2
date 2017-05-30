@@ -438,4 +438,5 @@
   <project name="fp2/vendor/fairphone/packages/apps/ProximitySensor" path="vendor/fairphone/packages/apps/ProximitySensor" revision="refs/tags/release_2.2.1-MR2"/>
   <project name="fp2/system/extras/appops_su" path="system/extras/appops_su" />
   <project name="fp2/platform/external/busybox" path="external/busybox" revision="fp2-m-sibon" />
+  <project name="fp2/platform/external/lz4" path="external/lz4" />
 </manifest>
