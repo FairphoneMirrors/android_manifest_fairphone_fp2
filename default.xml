@@ -336,7 +336,7 @@
   <project name="fp2/platform/packages/apps/Protips" path="packages/apps/Protips" />
   <project name="fp2/platform/packages/apps/Provision" path="packages/apps/Provision" />
   <project name="fp2/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" />
-  <project name="fp2/platform/packages/apps/Settings" path="packages/apps/Settings" />
+  <project name="fp2/platform/packages/apps/Settings" path="packages/apps/Settings" revision="fp2-m-sibon" />
   <project name="fp2/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" />
   <project name="fp2/platform/packages/apps/SnapdragonCamera" path="packages/apps/SnapdragonCamera" />
   <project name="fp2/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" />
