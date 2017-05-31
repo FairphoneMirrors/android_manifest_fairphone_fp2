@@ -166,7 +166,7 @@
   <project groups="pdk-cw-fs" name="fp2/platform/external/lldb" path="external/lldb" />
   <project groups="pdk" name="fp2/platform/external/llvm" path="external/llvm" />
   <project groups="pdk-cw-fs" name="fp2/platform/external/ltrace" path="external/ltrace" />
-  <project groups="pdk-cw-fs" name="fp2/platform/external/lz4" path="external/lz4" />
+  <project groups="pdk-cw-fs" name="fp2/platform/external/lz4" path="external/lz4" revision="fp2-m-sibon" />
   <project groups="pdk-cw-fs" name="fp2/platform/external/lzma" path="external/lzma" />
   <project groups="pdk-cw-fs" name="fp2/platform/external/marisa-trie" path="external/marisa-trie" />
   <project groups="pdk-cw-fs" name="fp2/platform/external/markdown" path="external/markdown" />
