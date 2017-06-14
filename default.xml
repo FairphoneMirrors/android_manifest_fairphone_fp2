@@ -209,7 +209,7 @@
   <project groups="pdk" name="fp2/platform/external/safe-iop" path="external/safe-iop" />
   <project groups="pdk" name="fp2/platform/external/scrypt" path="external/scrypt" />
   <project name="fp2/platform/external/selinux" path="external/selinux" />
-  <project groups="pdk" name="fp2/platform/external/sepolicy" path="external/sepolicy" />
+  <project groups="pdk" name="fp2/platform/external/sepolicy" path="external/sepolicy" revision="fp2-m-sibon" />
   <project groups="pdk,qcom_msm8x26" name="fp2/platform/external/sfntly" path="external/sfntly" />
   <project groups="pdk,qcom_msm8x26" name="fp2/platform/external/skia" path="external/skia" />
   <project name="fp2/platform/external/slf4j" path="external/slf4j" />
