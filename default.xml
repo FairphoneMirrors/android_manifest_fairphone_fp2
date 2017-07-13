@@ -437,4 +437,6 @@
   <project name="fp2/vendor/fairphone/packages/apps/Launcher" path="vendor/fairphone/packages/apps/Launcher" revision="ce519f3a9fbc21dd6d6027c0f4d1837ec4d84175"/>
   <project name="fp2/vendor/fairphone/packages/apps/ProximitySensor" path="vendor/fairphone/packages/apps/ProximitySensor" revision="5a2d96fddb13e9fa197c48ea5411d4038d8ce787"/>
   <project name="fp2/vendor/fairphone/updater" path="vendor/fairphone/updater" revision="a4b3d31a608e8c45b9e4faaf3ed1b8e8f30cfe77"/>
+  <project name="fp2/platform/external/busybox" path="external/busybox" revision="27116babeb4b68f6da9628f32b17251141c24cdb" />
+  <project name="fp2/vendor/fairphone/setupwizard" path="vendor/fairphone/setupwizard" revision="e901e0cc41659dcf8254620d2bb70d7289a9d463" />
 </manifest>
