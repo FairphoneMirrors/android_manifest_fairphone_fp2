@@ -4,7 +4,7 @@
   <default remote="origin" />
   <project groups="pdk-cw-fs" name="fp2/device/common" path="device/common" revision="59222307bea10506e1f4814bf6687fb4cdcddabe"/>
   <project name="fp2/device/fairphone_devices/common" path="device/fairphone_devices/common" revision="e26481dc70a255b1ce4894e0db11d667d6f4dce9"/>
-  <project name="fp2/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2" revision="62acd185c209a538485079250ed56d488382f7c2"/>
+  <project name="fp2/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2" revision="224f9ec26adb12cf68004f96534c85f94083b9fc"/>
   <project name="fp2/device/fairphone_devices/sepolicy" path="device/fairphone_devices/sepolicy" revision="ba5c3cc5277e33af6d8a4046c48ad90d59efdee9"/>
   <project groups="pdk" name="fp2/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" revision="0e7af778b59c0ff590e21fcce8cfc9176dc0d13d"/>
   <project groups="pdk" name="fp2/device/generic/common" path="device/generic/common" revision="11c092a6cbfcf6207f07a9a8e3398e747e7f5461"/>
@@ -342,7 +342,7 @@
   <project name="fp2/platform/packages/apps/Settings" path="packages/apps/Settings" revision="4108763742a7f02eeb44a4e28d43f4a579624ea6"/>
   <project name="fp2/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="fp2/platform/packages/apps/SnapdragonCamera" path="packages/apps/SnapdragonCamera" revision="59accbd3c2a5aa5515a2e123a93695db86e55491"/>
-  <project name="fp2/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="fb899a6ac60e5b7d564fce3357d8e88bc157a029"/>
+  <project name="fp2/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="16961e5719eaebd1bdd5ea73bf2302100a029c7e"/>
   <project name="fp2/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="4db997871e3f4c3f84660815096e5276b47c5c91"/>
   <project name="fp2/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="725f4c8c46d74bae6795f1b0ddd5fd459e06b6f4"/>
   <project name="fp2/platform/packages/apps/Stk" path="packages/apps/Stk" revision="af1e30f1f2c813cf8d65ec69f247fdef482dcb30"/>
