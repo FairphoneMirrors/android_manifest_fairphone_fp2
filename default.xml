@@ -18,7 +18,7 @@
   </project>
   <project name="fp2/device/qcom/sepolicy" path="device/qcom/sepolicy" revision="b1ea7ca21954ac0293a4b83646371c3a5192d317"/>
   <project groups="pdk" name="fp2/device/sample" path="device/sample" revision="85a048d02b8cc16317581bb5c9e8fa9821057031"/>
-  <project name="fp2/kernel/lk" path="bootable/bootloader/lk" revision="575fe1c56c59d761dc0d6001217be28159cfc08c"/>
+  <project name="fp2/kernel/lk" path="bootable/bootloader/lk" revision="87f6ac005aa39fd22983512a21b029ca4a376c42"/>
   <project name="fp2/kernel/msm" path="kernel" revision="80e3e3b3c1a73f85cd762709ab849d5f815285ba"/>
   <project groups="pdk" name="fp2/platform/abi/cpp" path="abi/cpp" revision="36b381298a4efb7c293d394d8b1acbda68230989"/>
   <project groups="pdk" name="fp2/platform/art" path="art" revision="7c32d2c58abb503ca74d9dcae1696c6efcaf0291"/>
