@@ -4,7 +4,6 @@
   <default remote="origin" revision="fp2-m-sibon" />
   <project groups="pdk-cw-fs" name="fp2/device/common" path="device/common"/>
   <project name="fp2/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2"/>
-  <project name="fp2/device/fairphone_devices/sepolicy" path="device/fairphone_devices/sepolicy"/>
   <project groups="pdk" name="fp2/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
   <project groups="pdk" name="fp2/device/generic/common" path="device/generic/common"/>
   <project groups="pdk" name="fp2/device/generic/goldfish" path="device/generic/goldfish"/>
