@@ -6,7 +6,6 @@
   
   <project groups="pdk-cw-fs" name="fp2/device/common" path="device/common" revision="59222307bea10506e1f4814bf6687fb4cdcddabe"/>
   <project name="fp2/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2" revision="05ed8d848846ee0c1ad59ee0d2baade1c3109598"/>
-  <project name="fp2/device/fairphone_devices/sepolicy" path="device/fairphone_devices/sepolicy" revision="2d9f91d8cc411602cf6b4fec3588dc9762dac750"/>
   <project groups="pdk" name="fp2/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" revision="0e7af778b59c0ff590e21fcce8cfc9176dc0d13d"/>
   <project groups="pdk" name="fp2/device/generic/common" path="device/generic/common" revision="11c092a6cbfcf6207f07a9a8e3398e747e7f5461"/>
   <project groups="pdk" name="fp2/device/generic/goldfish" path="device/generic/goldfish" revision="e4881ef18ef3adc7d76485d96029f9259bdc7150"/>
