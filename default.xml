@@ -431,7 +431,7 @@
   <project name="fp2/platform/vendor/qcom-opensource/wlan/prima" path="vendor/qcom/opensource/wlan/prima" revision="8a5362a1192b3292f61ace327d22c330a91993a2"/>
   <project name="fp2/platform/vendor/qcom/copper" path="device/qcom/msm8974" revision="ab781de9fa0e3b8ba5d43485c774201ac0ed6f00"/>
   <project name="fp2/system/extras/appops_su" path="system/extras/appops_su" revision="d12f3fa36b4b198ce5b5e481f64db25be7168a93"/>
-  <project name="fp2/vendor/fairphone/moduledetect/packages/apps/moduledetect" path="vendor/fairphone/moduledetect/packages/apps/ModuleDetect" />
+  <project name="fp2/vendor/fairphone/moduledetect/packages/apps/moduledetect" path="vendor/fairphone/moduledetect/packages/apps/ModuleDetect" revision="883a4a5ec5de06b315d9f131123c15413b82e274" />
   <project name="fp2/vendor/fairphone/checkup" path="vendor/fairphone/checkup" revision="1665dec3e5b84d371230457a0f8e0047848a7e6c"/>
   <project name="fp2/vendor/fairphone/frameworks/base/packages/ProgrammableButton" path="vendor/fairphone/frameworks/base/packages/ProgrammableButton" revision="29d1f87d6c519880dc30180d65a2c52de82eff53"/>
   <project name="fp2/vendor/fairphone/packages/apps/Launcher" path="vendor/fairphone/packages/apps/Launcher" revision="ce519f3a9fbc21dd6d6027c0f4d1837ec4d84175"/>
