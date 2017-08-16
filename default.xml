@@ -247,7 +247,7 @@
   <project groups="pdk-cw-fs" name="fp2/platform/external/zopfli" path="external/zopfli" revision="bb96afe13a50bfc17259dcf56f44e997923c705c"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/zxing" path="external/zxing" revision="d2256df36df8778a3743e0a71eab0cc5106b98c9"/>
   <project groups="pdk" name="fp2/platform/frameworks/av" path="frameworks/av" revision="7ac5e039c4600a84b4ed6d32ceb4f58eec48e234"/>
-  <project groups="pdk-cw-fs" name="fp2/platform/frameworks/base" path="frameworks/base" revision="df12d5330b4cf54bb03120c71b1b45c1aadd7f6b"/>
+  <project groups="pdk-cw-fs" name="fp2/platform/frameworks/base" path="frameworks/base" revision="3a3d2f57a3649afc0c06753ea5626437751bd9df"/>
   <project groups="pdk" name="fp2/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="b7f05114e5f408479b50647837cdf25187bfd164"/>
   <project groups="pdk" name="fp2/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="8c10afdc806cbb9d4560e90b100f0dcefdd46a21"/>
   <project groups="pdk" name="fp2/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="99ea89ee558c3917383468febeef186df2e6a76c"/>
