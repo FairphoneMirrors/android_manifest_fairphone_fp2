@@ -338,7 +338,7 @@
   <project name="fp2/platform/packages/apps/Protips" path="packages/apps/Protips" revision="ec5d268260d97499dd45849e29e8c4f5e75dd539"/>
   <project name="fp2/platform/packages/apps/Provision" path="packages/apps/Provision" revision="78ca0db658fe6253d506916e36319e620476f809"/>
   <project name="fp2/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="3ba0f015d44a71494d10daad5a6f5b487b6b7bf5"/>
-  <project name="fp2/platform/packages/apps/Settings" path="packages/apps/Settings" revision="4108763742a7f02eeb44a4e28d43f4a579624ea6"/>
+  <project name="fp2/platform/packages/apps/Settings" path="packages/apps/Settings" revision="d7f927601113e484ce39beeb2c06238849074bd0"/>
   <project name="fp2/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="fp2/platform/packages/apps/SnapdragonCamera" path="packages/apps/SnapdragonCamera" revision="59accbd3c2a5aa5515a2e123a93695db86e55491"/>
   <project name="fp2/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="16961e5719eaebd1bdd5ea73bf2302100a029c7e"/>
