@@ -15,7 +15,7 @@
     <copyfile dest="build.sh" src="build.sh"/>
     <copyfile dest="vendor/qcom/build/tasks/generate_extra_images.mk" src="generate_extra_images.mk"/>
   </project>
-  <project name="fp2/device/qcom/sepolicy" path="device/qcom/sepolicy" revision="b1ea7ca21954ac0293a4b83646371c3a5192d317"/>
+  <project name="fp2/device/qcom/sepolicy" path="device/qcom/sepolicy" revision="151cbb72cf53a5af07968ee72c7e3c27a2e4288e"/>
   <project groups="pdk" name="fp2/device/sample" path="device/sample" revision="85a048d02b8cc16317581bb5c9e8fa9821057031"/>
   <project name="fp2/kernel/lk" path="bootable/bootloader/lk" revision="87f6ac005aa39fd22983512a21b029ca4a376c42"/>
   <project name="fp2/kernel/msm" path="kernel" revision="80e3e3b3c1a73f85cd762709ab849d5f815285ba"/>
