@@ -117,7 +117,6 @@
   <project groups="pdk-cw-fs" name="fp2/platform/external/jdiff" path="external/jdiff"/>
   <project groups="pdk" name="fp2/platform/external/jemalloc" path="external/jemalloc"/>
   <project name="fp2/platform/external/jetty" path="external/jetty"/>
-  <project groups="pdk" name="fp2/platform/external/jhead" path="external/jhead"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/jmdns" path="external/jmdns"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/jmonkeyengine" path="external/jmonkeyengine"/>
   <project groups="pdk" name="fp2/platform/external/jpeg" path="external/jpeg"/>
