@@ -121,7 +121,6 @@
   <project groups="pdk-cw-fs" name="fp2/platform/external/jdiff" path="external/jdiff" revision="7923b6023b5a664e9ddac6d55a7d1fef3808cd22"/>
   <project groups="pdk" name="fp2/platform/external/jemalloc" path="external/jemalloc" revision="486fa41f4ace88a9d1b96831bc36cbd2cfa4957e"/>
   <project name="fp2/platform/external/jetty" path="external/jetty" revision="03928aee4356845252ac6b662d5c72c29903813e"/>
-  <project groups="pdk" name="fp2/platform/external/jhead" path="external/jhead" revision="52181172be814a6f6637e3617c43f7494087add8"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/jmdns" path="external/jmdns" revision="f4eb7466d5c09098f9dc54137ed3235e3c43fc9f"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/jmonkeyengine" path="external/jmonkeyengine" revision="a6b44658eb1c55295f132a36233a11aa2bd8f9cf"/>
   <project groups="pdk" name="fp2/platform/external/jpeg" path="external/jpeg" revision="9f3436c3b153b55257caca0345c8135514b26945"/>
