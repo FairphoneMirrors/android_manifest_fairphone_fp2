@@ -5,7 +5,7 @@
   <default remote="origin"/>
   
   <project groups="pdk-cw-fs" name="fp2/device/common" path="device/common" revision="59222307bea10506e1f4814bf6687fb4cdcddabe"/>
-  <project name="fp2/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2" revision="d81f0f6fed38dd055cb90c2065f0b7db2a96bd91"/>
+  <project name="fp2/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2" revision="05ed8d848846ee0c1ad59ee0d2baade1c3109598"/>
   <project name="fp2/device/fairphone_devices/sepolicy" path="device/fairphone_devices/sepolicy" revision="2d9f91d8cc411602cf6b4fec3588dc9762dac750"/>
   <project groups="pdk" name="fp2/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" revision="0e7af778b59c0ff590e21fcce8cfc9176dc0d13d"/>
   <project groups="pdk" name="fp2/device/generic/common" path="device/generic/common" revision="11c092a6cbfcf6207f07a9a8e3398e747e7f5461"/>
@@ -20,12 +20,12 @@
   <project name="fp2/device/qcom/sepolicy" path="device/qcom/sepolicy" revision="151cbb72cf53a5af07968ee72c7e3c27a2e4288e"/>
   <project groups="pdk" name="fp2/device/sample" path="device/sample" revision="85a048d02b8cc16317581bb5c9e8fa9821057031"/>
   <project name="fp2/kernel/lk" path="bootable/bootloader/lk" revision="87f6ac005aa39fd22983512a21b029ca4a376c42"/>
-  <project name="fp2/kernel/msm" path="kernel" revision="52110432ba5e631b65b7791f81ffcc9dc588b28c"/>
+  <project name="fp2/kernel/msm" path="kernel" revision="ebc59b4870e1e9b9070bf334c11d62b44ddda5ea"/>
   <project groups="pdk" name="fp2/platform/abi/cpp" path="abi/cpp" revision="36b381298a4efb7c293d394d8b1acbda68230989"/>
   <project groups="pdk" name="fp2/platform/art" path="art" revision="7c32d2c58abb503ca74d9dcae1696c6efcaf0291"/>
   <project groups="pdk" name="fp2/platform/bionic" path="bionic" revision="585f2bfc9113aeb8b6a3c11c3b353b0b6c95dd59"/>
   <project groups="pdk" name="fp2/platform/bootable/recovery" path="bootable/recovery" revision="3b0385c0a8380a80d4dd39f26cceb8eac687a942"/>
-  <project groups="pdk" name="fp2/platform/build-marshmallow" path="build" revision="d3c332bf711b418009c126bd843f3f78ef891e61">
+  <project groups="pdk" name="fp2/platform/build-marshmallow" path="build" revision="aa06d5d08f5a19e2dcc5235dd291dc3556ce9205">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project groups="cts,pdk-cw-fs" name="fp2/platform/cts" path="cts" revision="47206367488f017f1868fb6d6c312f5fa3ccbf3c"/>
@@ -88,7 +88,7 @@
   <project groups="pdk-cw-fs" name="fp2/platform/external/esd" path="external/esd" revision="943c42b6f8e9afe821744aa4c039f4943ebf29f5"/>
   <project groups="pdk" name="fp2/platform/external/expat" path="external/expat" revision="9f52de8d9a0ab969c7f68dcb4ccbd4cf6a8289c1"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/eyes-free" path="external/eyes-free" revision="16bd4c7a4d1bfe229068b637614dad7c48dd2ceb"/>
-  <project groups="pdk" name="fp2/platform/external/f2fs-tools" path="external/f2fs-tools" revision="3686eecd8c8511ae7ecd7611a2f065b48b484b13"/>
+  <project groups="pdk" name="fp2/platform/external/f2fs-tools" path="external/f2fs-tools" revision="e2ab2640b3eb61a6ebcb5c6b84cf65824a1239ca"/>
   <project groups="pdk" name="fp2/platform/external/fdlibm" path="external/fdlibm" revision="a80590655471025cfdbbd1328afc3ae5e6feab6a"/>
   <project name="fp2/platform/external/fio" path="external/fio" revision="b9da4221fd8a628a696d70c33ba1e7e8cc00a8fe"/>
   <project groups="pdk" name="fp2/platform/external/flac" path="external/flac" revision="1fe437d93fbd03a1ee413f627087370a10bac012"/>
@@ -132,7 +132,7 @@
   <project groups="pdk-cw-fs" name="fp2/platform/external/junit" path="external/junit" revision="7e5a2e79b848a8c0373d65f2324f5f999a458518"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/kernel-headers" path="external/kernel-headers" revision="d5a1ad2bdf2607752b3841681a01db403f8b4aa1"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/ksoap2" path="external/ksoap2" revision="f13853ff0fa5eb65afc847176e55ca6db293eb3c"/>
-  <project groups="pdk" name="fp2/platform/external/libavc" path="external/libavc" revision="12a2ec8257d5c123233e2c7d3755c0cfe3a3df76"/>
+  <project groups="pdk" name="fp2/platform/external/libavc" path="external/libavc" revision="4b182b8b30ef29f7b9c70094d45969db6a6c17ea"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/libcap-ng" path="external/libcap-ng" revision="52447887e50b49f33f959077c31232edff6659d8"/>
   <project groups="pdk" name="fp2/platform/external/libcxx" path="external/libcxx" revision="076df933eb2d98152218b874abfa91cba660bcbd"/>
   <project groups="pdk" name="fp2/platform/external/libcxxabi" path="external/libcxxabi" revision="b451069aab57ccfe64c0fc7a18cfc487862fe985"/>
@@ -140,7 +140,7 @@
   <project name="fp2/platform/external/libedit" path="external/libedit" revision="315dded283ebd8627b4968d761b0c29bc241d7a3"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/libexif" path="external/libexif" revision="fa0c1e7d954230cd29d896e6015314b2f68ad7bd"/>
   <project groups="pdk" name="fp2/platform/external/libgsm" path="external/libgsm" revision="1e26679795597459732408891bedea130b3ee1f1"/>
-  <project name="fp2/platform/external/libhevc" path="external/libhevc" revision="4b2001870fc5ce0b559d5da961a7f3fe21447917"/>
+  <project name="fp2/platform/external/libhevc" path="external/libhevc" revision="48605fe8ec9ed68ca1c14344add53bb37966c270"/>
   <project groups="pdk" name="fp2/platform/external/liblzf" path="external/liblzf" revision="6946aa575b0949d045722794850896099d937cbb"/>
   <project groups="pdk" name="fp2/platform/external/libmpeg2" path="external/libmpeg2" revision="80a88bcddc422606cd576d67ed02825b60e37ef1"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/libmtp" path="external/libmtp" revision="e204c41bf49cadc1de460f0cf902008955b356d9"/>
@@ -220,9 +220,9 @@
   <project name="fp2/platform/external/slf4j" path="external/slf4j" revision="7122d7eba20aeeaf319017b655271889f825f750"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/smali" path="external/smali" revision="15284127c9ed241f1de20fdd8cdb24cb12cd2119"/>
   <project groups="pdk" name="fp2/platform/external/sonic" path="external/sonic" revision="10c16fc60582d7e8bcf7533793871485d339e241"/>
-  <project groups="pdk" name="fp2/platform/external/sonivox" path="external/sonivox" revision="a330f9d1cdb3d0fc836679f0fd8f77502c75252c"/>
+  <project groups="pdk" name="fp2/platform/external/sonivox" path="external/sonivox" revision="89cea06efb2e199e122c39f9ec9b5cea5fd92b6a"/>
   <project groups="pdk" name="fp2/platform/external/speex" path="external/speex" revision="ff03110e77ec7fe716c5be11783746f59c814e30"/>
-  <project groups="pdk" name="fp2/platform/external/sqlite" path="external/sqlite" revision="2fb3da9fbbc58c78b92c00f6e5fea77f37c57faa"/>
+  <project groups="pdk" name="fp2/platform/external/sqlite" path="external/sqlite" revision="035ad5f323282cdeff7d5dd6b96b7ba07f558cd1"/>
   <project groups="pdk" name="fp2/platform/external/squashfs-tools" path="external/squashfs-tools" revision="1a710ff698178fbf71251395c4c96e3e7e73e2ed"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/srtp" path="external/srtp" revision="8756a774806ed44bc4e185a7a5a253f3dfbdc2e7"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/strace" path="external/strace" revision="54e2f93285e52a4347ace1f33860ce51e72853eb"/>
@@ -235,7 +235,7 @@
   <project groups="pdk" name="fp2/platform/external/tinyxml" path="external/tinyxml" revision="143125ff631c481d590cae0d7cc9ccfaaca269c7"/>
   <project groups="pdk" name="fp2/platform/external/tinyxml2" path="external/tinyxml2" revision="9d9aed466bbe37c993de79de71b6afbf091f99af"/>
   <project groups="pdk" name="fp2/platform/external/toybox" path="external/toybox" revision="c96e42498c99b179444e6812dd8b0583f0624fcd"/>
-  <project groups="pdk" name="fp2/platform/external/tremolo" path="external/tremolo" revision="3b315810b73840d39b7833bcb278df714cb08638"/>
+  <project groups="pdk" name="fp2/platform/external/tremolo" path="external/tremolo" revision="013a3b5f92dfa2dc36ffd2e3f78217d97b8168b7"/>
   <project groups="pdk" name="fp2/platform/external/v8" path="external/v8" revision="61f157c8528c2b46f3234b4eea5a44df531d857d"/>
   <project groups="pdk" name="fp2/platform/external/valgrind" path="external/valgrind" revision="4e88b3458976a7132fe2b78392ebf9348a42a9f9"/>
   <project groups="vboot" name="fp2/platform/external/vboot_reference" path="external/vboot_reference" revision="10ebdb2ed235c5fc70d72ba11c7e7d2caf4b3296"/>
@@ -249,15 +249,15 @@
   <project groups="pdk" name="fp2/platform/external/zlib" path="external/zlib" revision="a15adad27b1a33de2f4c788809ba97cff726cf58"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/zopfli" path="external/zopfli" revision="bb96afe13a50bfc17259dcf56f44e997923c705c"/>
   <project groups="pdk-cw-fs" name="fp2/platform/external/zxing" path="external/zxing" revision="d2256df36df8778a3743e0a71eab0cc5106b98c9"/>
-  <project groups="pdk" name="fp2/platform/frameworks/av" path="frameworks/av" revision="0dbada92b1dc4b9d77a7b2ea11ce675ec015d475"/>
-  <project groups="pdk-cw-fs" name="fp2/platform/frameworks/base" path="frameworks/base" revision="3a3d2f57a3649afc0c06753ea5626437751bd9df"/>
+  <project groups="pdk" name="fp2/platform/frameworks/av" path="frameworks/av" revision="4ab3896510d3e041321ccd75844f1a14949d948e"/>
+  <project groups="pdk-cw-fs" name="fp2/platform/frameworks/base" path="frameworks/base" revision="b21c94aeda92711c24dd4880efa674e3f64ce53b"/>
   <project groups="pdk" name="fp2/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="b7f05114e5f408479b50647837cdf25187bfd164"/>
   <project groups="pdk" name="fp2/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="8c10afdc806cbb9d4560e90b100f0dcefdd46a21"/>
   <project groups="pdk" name="fp2/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="99ea89ee558c3917383468febeef186df2e6a76c"/>
   <project groups="pdk-cw-fs,pdk-fs" name="fp2/platform/frameworks/data-binding" path="frameworks/data-binding" revision="810f30b199a514adfd019365f521723c7cbfe27a"/>
   <project groups="pdk-cw-fs" name="fp2/platform/frameworks/ex" path="frameworks/ex" revision="ca3990d18264f1e24a1d25e74cb2f18e62323623"/>
   <project groups="pdk-cw-fs" name="fp2/platform/frameworks/mff" path="frameworks/mff" revision="b9669b8540a1e5c953374d53b115514335e23c27"/>
-  <project groups="pdk-cw-fs" name="fp2/platform/frameworks/minikin" path="frameworks/minikin" revision="4528c598978486e0ac1a34718b8985b684dcfabf"/>
+  <project groups="pdk-cw-fs" name="fp2/platform/frameworks/minikin" path="frameworks/minikin" revision="0a9405f8be9bc87a86804e0b8462b666fdcb2559"/>
   <project groups="pdk-cw-fs" name="fp2/platform/frameworks/ml" path="frameworks/ml" revision="e0721529b9662b5ffb6cc7daf5b097720f5eb3e8"/>
   <project groups="pdk-cw-fs" name="fp2/platform/frameworks/multidex" path="frameworks/multidex" revision="805db15e4d7baa57062ad08fb03eeac8691475c8"/>
   <project groups="pdk" name="fp2/platform/frameworks/native" path="frameworks/native" revision="734ce0a87c103d39885f206c6d2af004782f245b"/>
@@ -289,13 +289,13 @@
   <project groups="pdk" name="fp2/platform/hardware/broadcom/libbt" path="hardware/broadcom/libbt" revision="43e1463d2d550b7b2f93cdcc26050a3651fff272"/>
   <project groups="pdk" name="fp2/platform/hardware/libhardware" path="hardware/libhardware" revision="8e9ddf6b32e9fc1b30961154de6260c8836102fc"/>
   <project groups="pdk" name="fp2/platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="c91951354b9ca839060349faa20fc82c8792b233"/>
-  <project groups="qcom,default" name="fp2/platform/hardware/qcom/audio" path="hardware/qcom/audio" revision="f92f1defffca900fe27664daafb97f0bbcb1cb1d"/>
+  <project groups="qcom,default" name="fp2/platform/hardware/qcom/audio" path="hardware/qcom/audio" revision="0daeb6b5ae801a0c3b2cdc412a4f0141844a9d9f"/>
   <project groups="qcom,default" name="fp2/platform/hardware/qcom/bt" path="hardware/qcom/bt" revision="525d5192d3edbcec57fe39182b6852cf729c9d4e"/>
   <project groups="qcom,default" name="fp2/platform/hardware/qcom/camera" path="hardware/qcom/camera" revision="5b4d07aa3fad40ec720ffe2b5ac0a20a2a626a8d"/>
   <project groups="qcom,default" name="fp2/platform/hardware/qcom/display" path="hardware/qcom/display" revision="ed1648018f38a8bef0d64b0a778fbb68045f705d"/>
   <project groups="qcom,default" name="fp2/platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="351713ea43cdcb961b96ae98d40388fd9aa3d1ec"/>
   <project groups="qcom" name="fp2/platform/hardware/qcom/keymaster" path="hardware/qcom/keymaster" revision="77ffefbe34cac27c41c01dda090b64a22beb7814"/>
-  <project groups="qcom,default" name="fp2/platform/hardware/qcom/media" path="hardware/qcom/media" revision="238a9d980a986235db7e89600d949357b6ae509d"/>
+  <project groups="qcom,default" name="fp2/platform/hardware/qcom/media" path="hardware/qcom/media" revision="32b1f11ed4495303fc020a828ea4a461012d1fa7"/>
   <project groups="qcom,default" name="fp2/platform/hardware/qcom/sensors" path="hardware/qcom/sensors" revision="b1fa2fa744d26a7eaa3ff1988dd8a32c45f0df54"/>
   <project groups="qcom,default" name="fp2/platform/hardware/qcom/wlan" path="hardware/qcom/wlan" revision="9723ab41f4e802a65f6ae657b5214ba1dfa0c1de"/>
   <project groups="pdk" name="fp2/platform/hardware/ril" path="hardware/ril" revision="0e06f38497de21be2db27fe09feef2dcbfd96054"/>
@@ -329,19 +329,19 @@
   <project name="fp2/platform/packages/apps/Launcher3" path="packages/apps/Launcher3" revision="b136db3c58a8afff06dbb1b48b05036f131ff5a8"/>
   <project name="fp2/platform/packages/apps/LegacyCamera" path="packages/apps/LegacyCamera" revision="8e2f0e48cb3d2209f1cf818b6cf8c4bd95645783"/>
   <project name="fp2/platform/packages/apps/ManagedProvisioning" path="packages/apps/ManagedProvisioning" revision="ae477441d48f9aae7d622e39bfab32ec15063156"/>
-  <project name="fp2/platform/packages/apps/Messaging" path="packages/apps/Messaging" revision="96670aa3df6fdb5694932763ab4733177cbbc98c"/>
+  <project name="fp2/platform/packages/apps/Messaging" path="packages/apps/Messaging" revision="e4e11995a5c4d0d3c4b2e608df91698dbba004cf"/>
   <project name="fp2/platform/packages/apps/Mms" path="packages/apps/Mms" revision="a2022229dbde92686bc289df6f2321e7321071e1"/>
   <project name="fp2/platform/packages/apps/Music" path="packages/apps/Music" revision="01f4aefd70f3723b7edd7431ec36fc1b987bb76a"/>
   <project name="fp2/platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="914308e6d79c2f371838f767aa646d5a4b3bacaf"/>
-  <project name="fp2/platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="ba45a66881b7ea324caa0e99060b2b07ee76d95d"/>
+  <project name="fp2/platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="40363152fa1a2a8b00a94df62e8e5274ac1a8537"/>
   <project name="fp2/platform/packages/apps/OneTimeInitializer" path="packages/apps/OneTimeInitializer" revision="01e429c08e51291315890de9677151a7e0b6ad35"/>
-  <project name="fp2/platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="ef4f95f516b589850abd336d1a278df19ed27bb4"/>
+  <project name="fp2/platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="084732bb424f26acfe6530f36caa196047bbe501"/>
   <project name="fp2/platform/packages/apps/Phone" path="packages/apps/Phone" revision="79731f02b7009206a01182d2cca15dfc8491da09"/>
   <project name="fp2/platform/packages/apps/PhoneCommon" path="packages/apps/PhoneCommon" revision="088e03bd42fce14f617f38d480b30fa1dbef4b31"/>
   <project name="fp2/platform/packages/apps/Protips" path="packages/apps/Protips" revision="ec5d268260d97499dd45849e29e8c4f5e75dd539"/>
   <project name="fp2/platform/packages/apps/Provision" path="packages/apps/Provision" revision="78ca0db658fe6253d506916e36319e620476f809"/>
   <project name="fp2/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="3ba0f015d44a71494d10daad5a6f5b487b6b7bf5"/>
-  <project name="fp2/platform/packages/apps/Settings" path="packages/apps/Settings" revision="d7f927601113e484ce39beeb2c06238849074bd0"/>
+  <project name="fp2/platform/packages/apps/Settings" path="packages/apps/Settings" revision="6786d430442d80ef1a331503963bc03a275a2ad6"/>
   <project name="fp2/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="fp2/platform/packages/apps/SnapdragonCamera" path="packages/apps/SnapdragonCamera" revision="59accbd3c2a5aa5515a2e123a93695db86e55491"/>
   <project name="fp2/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="16961e5719eaebd1bdd5ea73bf2302100a029c7e"/>
@@ -371,7 +371,7 @@
   <project name="fp2/platform/packages/screensavers/WebView" path="packages/screensavers/WebView" revision="6e0a80f6faed6191acc8ce1b6c79eada09e9e042"/>
   <project name="fp2/platform/packages/services/Mms" path="packages/services/Mms" revision="c13ab2f3961150c5645af84bf2590a03df3dbc2b"/>
   <project name="fp2/platform/packages/services/Telecomm" path="packages/services/Telecomm" revision="ea61e7a7d59fac1edef4a7bc103d4d5e1b0b47d7"/>
-  <project name="fp2/platform/packages/services/Telephony" path="packages/services/Telephony" revision="af5b5ec6d97ec74c20e0de3bf3d2836ea3bb652c"/>
+  <project name="fp2/platform/packages/services/Telephony" path="packages/services/Telephony" revision="edbf6164ff95ef506866572495005c269c62c677"/>
   <project name="fp2/platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" revision="da800df96de13d852da64398958a7f258e3e3589"/>
   <project name="fp2/platform/packages/wallpapers/Galaxy4" path="packages/wallpapers/Galaxy4" revision="83ce967f34f1b099fafef55d5c23ba4aea78dd64"/>
   <project name="fp2/platform/packages/wallpapers/HoloSpiral" path="packages/wallpapers/HoloSpiral" revision="5109d6b923137014cd2721c600e8bacb4eba2484"/>
@@ -412,7 +412,7 @@
   <project groups="pdk" name="fp2/platform/prebuilts/sdk" path="prebuilts/sdk" revision="f7aa830ed78122818238988e343fa29f7e9b2abe"/>
   <project groups="pdk,tools" name="fp2/platform/prebuilts/tools" path="prebuilts/tools" revision="f32d460e38a2354a060d2e918836bd745ec49f55"/>
   <project groups="pdk-cw-fs" name="fp2/platform/sdk" path="sdk" revision="3c9c2be94a1b36a7e01c9011966137badee8b843"/>
-  <project groups="pdk" name="fp2/platform/system/bt" path="system/bt" revision="ae973d5980e0d3c7a8143a78aad019486c46914c"/>
+  <project groups="pdk" name="fp2/platform/system/bt" path="system/bt" revision="cb6a4cf7b37d2e66bf087279aa610059beaac1b9"/>
   <project groups="pdk" name="fp2/platform/system/core" path="system/core" revision="356b73d719636d35990dc1cd83338ee07cdac66a"/>
   <project groups="pdk" name="fp2/platform/system/extras" path="system/extras" revision="4d473a6144c28d91e3cc4beb433cb2c9f6f69874"/>
   <project groups="pdk" name="fp2/platform/system/gatekeeper" path="system/gatekeeper" revision="e547f93b0089f12c78d33b83e5f49fdb0e0c85bc"/>
@@ -431,14 +431,15 @@
   <project name="fp2/platform/vendor/qcom-opensource/stm-log" path="vendor/qcom/opensource/stm-log" revision="f802c8b4d21bad8d3c665292f683cef9249594f4"/>
   <project name="fp2/platform/vendor/qcom-opensource/testframework" path="vendor/qcom/opensource/testframework" revision="a97b3583e088f4ee85f0495a9af416426f5d5e25"/>
   <project name="fp2/platform/vendor/qcom-opensource/time-services" path="vendor/qcom/opensource/time-services" revision="a2db4ea2c43284ffa6e091b5730de8be7a7c717a"/>
-  <project name="fp2/platform/vendor/qcom-opensource/wlan/prima" path="vendor/qcom/opensource/wlan/prima" revision="8a5362a1192b3292f61ace327d22c330a91993a2"/>
+  <project name="fp2/platform/vendor/qcom-opensource/wlan/prima" path="vendor/qcom/opensource/wlan/prima" revision="dfca8a024cccca4b9e25d5a4b6745c009bbe2c05"/>
   <project name="fp2/platform/vendor/qcom/copper" path="device/qcom/msm8974" revision="ab781de9fa0e3b8ba5d43485c774201ac0ed6f00"/>
   <project name="fp2/system/extras/appops_su" path="system/extras/appops_su" revision="d12f3fa36b4b198ce5b5e481f64db25be7168a93"/>
   <project name="fp2/vendor/fairphone/checkup" path="vendor/fairphone/checkup" revision="1665dec3e5b84d371230457a0f8e0047848a7e6c"/>
   <project name="fp2/vendor/fairphone/frameworks/base/packages/ProgrammableButton" path="vendor/fairphone/frameworks/base/packages/ProgrammableButton" revision="29d1f87d6c519880dc30180d65a2c52de82eff53"/>
-  <project name="fp2/vendor/fairphone/moduledetect/packages/apps/moduledetect" path="vendor/fairphone/moduledetect/packages/apps/ModuleDetect" revision="883a4a5ec5de06b315d9f131123c15413b82e274" />
   <project name="fp2/vendor/fairphone/packages/apps/Launcher" path="vendor/fairphone/packages/apps/Launcher" revision="752b5874888ba3389092141ae7dec7ff459b7dc8"/>
-  <project name="fp2/vendor/fairphone/packages/apps/ProximitySensor" path="vendor/fairphone/packages/apps/ProximitySensor" revision="5a2d96fddb13e9fa197c48ea5411d4038d8ce787"/>
+  <project name="fp2/vendor/fairphone/packages/apps/ProximitySensor" path="vendor/fairphone/packages/apps/ProximitySensor" revision="4b7d50d9a3cb241b716c5348f906747833ee65e2"/>
   <project name="fp2/vendor/fairphone/setupwizard" path="vendor/fairphone/setupwizard" revision="ba25e099ebafd1254036ad0e898442bf75b32ecd"/>
   <project name="fp2/vendor/fairphone/updater" path="vendor/fairphone/updater" revision="a4b3d31a608e8c45b9e4faaf3ed1b8e8f30cfe77"/>
+  <project name="fp2/vendor/fairphone/moduledetect/packages/apps/moduledetect" path="vendor/fairphone/moduledetect/packages/apps/ModuleDetect" revision="383f91577a1377d7a57a8f147046dd463b389018"/>
+  <project name="fp2/vendor/fairphone/moduledetect/packages/apps/CameraSwapInfo" path="vendor/fairphone/moduledetect/packages/apps/CameraSwapInfo" revision="e770aef5df24f159c61a65ab2a6d093fe4bedcef"/>
 </manifest>
