@@ -3,7 +3,6 @@
   <remote fetch=".." name="origin" />
   <default remote="origin" />
   <project groups="pdk-cw-fs" name="fp2/device/common" path="device/common" revision="59222307bea10506e1f4814bf6687fb4cdcddabe"/>
-  <project name="fp2/device/fairphone_devices/common" path="device/fairphone_devices/common" revision="e26481dc70a255b1ce4894e0db11d667d6f4dce9"/>
   <project name="fp2/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2" revision="224f9ec26adb12cf68004f96534c85f94083b9fc"/>
   <project name="fp2/device/fairphone_devices/sepolicy" path="device/fairphone_devices/sepolicy" revision="ba5c3cc5277e33af6d8a4046c48ad90d59efdee9"/>
   <project groups="pdk" name="fp2/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" revision="0e7af778b59c0ff590e21fcce8cfc9176dc0d13d"/>
