@@ -438,4 +438,6 @@
   <project name="fp2/vendor/fairphone/updater" path="vendor/fairphone/updater" revision="a4b3d31a608e8c45b9e4faaf3ed1b8e8f30cfe77"/>
   <project name="fp2/platform/external/busybox" path="external/busybox" revision="27116babeb4b68f6da9628f32b17251141c24cdb" />
   <project name="fp2/vendor/fairphone/setupwizard" path="vendor/fairphone/setupwizard" revision="e901e0cc41659dcf8254620d2bb70d7289a9d463" />
+  <project name="fp2/vendor/fairphone/moduledetect/packages/apps/moduledetect" path="vendor/fairphone/moduledetect/packages/apps/ModuleDetect" />
+  <project name="fp2/vendor/fairphone/moduledetect/packages/apps/CameraSwapInfo" path="vendor/fairphone/moduledetect/packages/apps/CameraSwapInfo" />
 </manifest>
