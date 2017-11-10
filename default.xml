@@ -438,4 +438,5 @@
   <project name="fp2-dev/vendor/fairphone/setupwizard" path="vendor/fairphone/setupwizard" />
   <project name="fp2-dev/vendor/fairphone/moduledetect/packages/apps/moduledetect" path="vendor/fairphone/moduledetect/packages/apps/ModuleDetect" />
   <project name="fp2-dev/vendor/fairphone/moduledetect/packages/apps/CameraSwapInfo" path="vendor/fairphone/moduledetect/packages/apps/CameraSwapInfo" />
+  <project name="fp2-dev/vendor/fairphone/fp2" path="vendor/fairphone/FP2" />
 </manifest>
