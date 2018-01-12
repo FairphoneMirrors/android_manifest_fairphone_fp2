@@ -24,7 +24,7 @@
   <project groups="pdk" name="fp2-dev/platform/art" path="art" revision="7c32d2c58abb503ca74d9dcae1696c6efcaf0291"/>
   <project groups="pdk" name="fp2-dev/platform/bionic" path="bionic" revision="585f2bfc9113aeb8b6a3c11c3b353b0b6c95dd59"/>
   <project groups="pdk" name="fp2-dev/platform/bootable/recovery" path="bootable/recovery" revision="3b0385c0a8380a80d4dd39f26cceb8eac687a942"/>
-  <project groups="pdk" name="fp2-dev/platform/build-marshmallow" path="build" revision="cee0f0c0fe999be2411f97877cf9d96253a5b3b7">
+  <project groups="pdk" name="fp2-dev/platform/build" path="build" revision="cee0f0c0fe999be2411f97877cf9d96253a5b3b7">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project groups="cts,pdk-cw-fs" name="fp2-dev/platform/cts" path="cts" revision="47206367488f017f1868fb6d6c312f5fa3ccbf3c"/>
