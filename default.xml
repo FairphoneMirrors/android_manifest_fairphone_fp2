@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch=".." name="origin" />
-  <default remote="origin" revision="fp2-m-sibon" />
+  <default remote="origin" revision="rel/m/fp2-sibon-18.02" />
   <project groups="pdk-cw-fs" name="fp2/device/common" path="device/common"/>
   <project name="fp2/device/fairphone_devices/fairphone" path="device/fairphone_devices/FP2"/>
   <project groups="pdk" name="fp2/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
