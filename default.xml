@@ -440,4 +440,5 @@
   <project name="fp2-dev/vendor/fairphone/moduledetect/packages/apps/CameraSwapInfo" path="vendor/fairphone/moduledetect/packages/apps/CameraSwapInfo" />
   <project name="fp2-dev/vendor/fairphone/fp2" path="vendor/fairphone/FP2" />
   <project name="vendor/f-droid/privileged-extension" path="vendor/f-droid/privileged-extension" />
+  <project name="fp2-dev/vendor/fairphone/frameworks/common" path="vendor/fairphone/frameworks/common" />
 </manifest>
